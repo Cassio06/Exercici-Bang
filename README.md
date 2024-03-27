@@ -1,0 +1,2 @@
+# Exercici-Bang
+ Bang Bang
