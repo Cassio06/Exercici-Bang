@@ -1,0 +1,22 @@
+#Squarezada {
+    border: 25px solid;
+    width: 250px;
+    height: 250px;
+    position: relative
+
+}
+.Square {
+     color:red;
+     position: relative;
+    }
+.Square2 {
+     color: black;
+     position: relative;
+}
+.Square p{position: fixed;
+    margin: 125px;
+    margin-left: 8%;
+          }
+.Square2 p{position: fixed;
+    margin: 125px;
+    margin-left: 8%;}
